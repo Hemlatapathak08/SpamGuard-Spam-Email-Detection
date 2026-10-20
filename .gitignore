@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+spam_model.pkl
+evaluation.pkl
+data/
+SMSSpamCollection
